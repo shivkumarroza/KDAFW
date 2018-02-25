@@ -1,0 +1,11 @@
+2018-02-21 12:23:58,323 - com.qspiders.KeyDriver - INFO - **********************Starting Frame Work**********************
+2018-02-21 12:24:52,028 - com.qspiders.KeyDriver - INFO - Total Number of Scenarios:2
+2018-02-21 12:24:52,106 - com.qspiders.KeyDriver - INFO - ======================================================
+2018-02-21 12:24:52,107 - com.qspiders.KeyDriver - INFO - Starting scenario:Scenario1
+2018-02-21 12:24:52,143 - com.qspiders.KeyDriver - INFO - StepCount:4
+2018-02-21 12:24:52,278 - com.qspiders.KeyDriver - INFO - enter username
+2018-02-21 12:25:12,347 - com.qspiders.FWLibrary - ERROR - FAIL:sendKeys();Element Not Found with the xpath://input[@id='username']
+2018-02-21 12:25:12,446 - com.qspiders.KeyDriver - INFO - enter password
+2018-02-21 12:25:32,505 - com.qspiders.FWLibrary - ERROR - FAIL:sendKeys();Element Not Found with the xpath://input[@name='pwd']
+2018-02-21 12:25:32,700 - com.qspiders.KeyDriver - INFO - click login
+2018-02-21 12:25:35,021 - com.qspiders.FWLibrary - INFO - Element found with xpath://a[@id='loginButton']
